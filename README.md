@@ -4,4 +4,4 @@ Sou a professora Ana, ministro aula de tecnologia e robótica na rede pública d
 
 Aqui procuro ensinar meus alunos a organizar seus projetos
 
-![](https://media.tenor.com/by37VK-1V_sAAAAM/to-hot.gif)
+![Figura linda](https://media.tenor.com/by37VK-1V_sAAAAM/to-hot.gif)
