@@ -1,7 +1,7 @@
 ## Olá. Sejam bem-vindos ao meu perfil.
 
-Sou a professora Ana, ministro aula de tecnologia e robótica na rede pública do Estado de SP
+Sou professor do Estado de São Paulo e vou usar esse perfil para minhas aulas de tecnologia.
 
-Aqui procuro ensinar meus alunos a organizar seus projetos
+Espero conseguir colocar todos os meus códigos aqui.
 
-![](https://media.tenor.com/by37VK-1V_sAAAAM/to-hot.gif)
+![](https://media.tenor.com/wM1S6aQhtQQAAAAM/annoyed-me.gif)
